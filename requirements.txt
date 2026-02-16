@@ -1,5 +1,8 @@
+groq
+fastapi
+uvicorn
+pydantic
+python-dotenv
 requests
 beautifulsoup4
-pandas
-python-dotenv
-pydantic
+lxml
